@@ -1,0 +1,8 @@
+db_user='postgres'
+db_password='<password>'
+db_hostname='<hostname>'
+db_port='5432'
+db_name='<dbname>'
+api_key='<api_key>'
+api_url='https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
+api_currency='USD'
