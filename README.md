@@ -1,6 +1,6 @@
 # Welcome to my new data ingestion project!
 
-This project is part of the Stack Academy Zero Data Engineering course. Our goal is to create a complex process bath and real-time data ingestion with Python API, Aws RDS / S3 and Airbyte.
+This project is part of the Stack Academy Zero Data Engineering course. Our goal is to create a simple process bath and real-time data ingestion with Python API, Aws RDS / S3 and Airbyte.
 
 Let's develop a simple data pipeline involving Python, API and Json files. The data will be queried and extracted through a public API in Json format, transformed and analyzed in Python and persisted in an AWS relational database. After this process, we will evolve to a more professional solution.
 
